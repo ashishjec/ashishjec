@@ -9,7 +9,7 @@ Based on Ashish Jaishwal's resume, here are the answers:
 - 💬 **Ask me about**: Full-stack web development, desktop application development, and image processing techniques for face recognition.
 - 📫 **How to reach me**: Email at ashishjec2024@gmail.com, or connect on [LinkedIn](https://www.linkedin.com/in/ashish-jaishwal-62b1621b2/), [GitHub](https://github.com/ashishjec), and [HackerRank](https://www.hackerrank.com/profile/ashishjec2024).
 - 😄 **Pronouns**: he/him
-- ⚡ **Fun fact**: I love songs especially 90s songs and punjabi songs
+- ⚡ **Fun fact**: Why do programmers prefer dark themes? Because light attracts bugs.
 
 **Additional Information**:
 - **Technical Skills**: Proficient in PHP, Nextjs, Typescript, Tailwindcss, redux,  Java, C, C++, Python, JavaScript, Tailwind CSS, HTML, CSS, Spring Boot, React.js, Laravel, MySQL, and WordPress.
