@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Based on Ashish Jaishwal's resume, here are the answers:
-
 - 🔭 **I’m currently working on**: Various projects including a real-time full-stack food ordering website (HungryFlix) and a clone of the Flipkart e-commerce website.
 - 🌱 **I’m currently learning**: Advanced concepts in web development, data structures, and algorithms.
 - 👯 **I’m looking to collaborate on**: Web development projects, particularly those involving React.js, Node.js, and backend frameworks.
